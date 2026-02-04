@@ -54,11 +54,10 @@ ___
 - They give us a much nicer way to create our web page, and they take care of updating the page for us.
 - Because of this, DOM is not used directly anymore.
 
-The most popular ones are:
-
--  ReactJS
--  Angular
--  VueJS
+- The most popular ones are:
+  -  ReactJS
+  -  Angular
+  -  VueJS
 
 - JavaScript as a language is missing a lot of features that other programming languages have. One of these features is being able to split up our code into different files, and to organize our code.
 - To solve this we have to use something called a **bundler**. The most popular one is called **Webpack**.
