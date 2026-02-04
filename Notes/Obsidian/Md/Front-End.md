@@ -56,9 +56,9 @@ ___
 
 The most popular ones are:
 
-- :FabReact: ReactJS
-- :FabAngular: Angular
-- :RiVuejsFill: VueJS
+-  ReactJS
+-  Angular
+-  VueJS
 
 - JavaScript as a language is missing a lot of features that other programming languages have. One of these features is being able to split up our code into different files, and to organize our code.
 - To solve this we have to use something called a **bundler**. The most popular one is called **Webpack**.
