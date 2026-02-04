@@ -1,0 +1,55 @@
+/* the "*" applies universally */
+* {
+    font-family: monospace;
+}
+
+body {
+    font-size: 22px;
+    border: 3px solid black;
+}
+
+main {
+    font-family: monospace;
+}
+
+button, input, textarea, select {
+    font: inherit;
+}
+
+/* applies to h1 AND h2 */
+h1,h2 {
+    color: blue;
+
+}
+
+/* only applies to h2's that are nested in h1's */
+h1 h2 {
+    color: blue;
+
+}
+
+
+
+/* reads first */
+p {
+    color: purple;
+
+}
+
+/* reads last, meaning it has priority over the first one */
+p {
+    color: red;
+}
+
+.highlight {
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+.gray {
+    color: gray;
+}
+
+#second {
+    font-style: italic;
+}
