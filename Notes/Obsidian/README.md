@@ -1,4 +1,4 @@
-I usually like to use the canvas function on obsidian as I like to organize ideas visually. Although, I understand that .canvas files are not common and can only be read by obsidian.
+I usually like to use the canvas function in obsidian as I like to organize ideas visually. Although, I understand that .canvas files are not common and can only be read by obsidian.
 
 Because of this, I will usually transfer what was written into .md files, for an easier reading experience. Note that they might not be 100% formated, or in order.
 
