@@ -18,7 +18,7 @@ Here I store exercices, tests, notes and small projects developed during my stud
 - HTML5
 - CSS3
 - JavaScript (W.I.P)
-- Git e GitHub
+- Git and GitHub
 
 ---
 
