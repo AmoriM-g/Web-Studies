@@ -11,12 +11,12 @@ ___
 
 - Some of the technologies used in the frontend of a web application are:
 
-## :RiHtml5Fill: **HTML**
+## **HTML**
 
 - Used to add content to a web page.
 - [[HTML.canvas]]
 
-## :RiCss3Fill: **CSS**
+## **CSS**
 
 - Cascading Style Sheets.
 - Used to style a web page.
@@ -31,17 +31,17 @@ ___
 - Preprocessor = bundler + transpiler.
 - The most popular one is called **Sass**.
 
-### :FabSass: **Sass**
+### **Sass**
 
 - Let's us organize our CSS into different files.
 - Let's us write enhanced CSS (CSS with more features).
 
-### :FabBootstrap: **Bootstrap**
+### **Bootstrap**
 
 - Once we had CSS Preprocessors, developers start to create **CSS Frameworks**, the most popular one being **Bootstrap**.
 - CSS Frameworks are basically a whole bunch of CSS code that somebody else wrote, and it helps us solve common problems. Using a framework like Bootstrap saves us a lot of time.
 
-## :RiJavascriptFill: **JavaScript**
+## **JavaScript**
 
 - Makes the web page interactive.
 
@@ -63,13 +63,13 @@ The most popular ones are:
 - JavaScript as a language is missing a lot of features that other programming languages have. One of these features is being able to split up our code into different files, and to organize our code.
 - To solve this we have to use something called a **bundler**. The most popular one is called **Webpack**.
 
-### :SiWebpack: **Webpack**
+### **Webpack**
 
 - Let's us split up our JavaScript code into many different files. Once ready to be implemented into our web site, Webpack will combine, or *bundle*, all of these files into one JavaScript file that we can put in our web site.
 
 Another tool that we use is called a **transpiler**. The most popular one is called **Typescript**.
 
-### :BoBxlTypescript: **Typescript**
+### **Typescript**
 
 - Adds extra features to JavaScript, letting us write an enhanced version of JavaScript, and then once we are done, it will transform the enhanced JavaScript back into normal JavaScript.
 - This is because browsers like google chrome can only understand normal JavaScript.
