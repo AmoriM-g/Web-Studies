@@ -4,6 +4,7 @@ tags:
   - Full-Stack
 ---
 
+---
 # Web Development Studies
 
 Repository created to document my learning journey in web development (Full-Stack)
