@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- File Uploadig -->
+
+        <div>
+            <form action="" method="post" enctype="multipart/form-data" id="videoForm"> <!-- action will be receiving an URL in which the file will be send -->
+            <label for="video">Video:</label>
+            <input type="file" name="video" accept="video/*" id="fileInput"> <!-- accept = "video/*" makes so that only video formats are acceptable-->
+            <button >Submit</button>
+            </form>
+<!--             <video controls id="videoEl">
+                Your browser does not support the video tag
+            </video> -->
+        </div>
+
+</body>
+</html> 
+
+<!-- <script>
+    const videoEl = document.getElementById('videoEl') as HTMLVideoElement;
+    const fileInput = document.getElementById('fileInput') as HTMLInputElement;
+    const videForm = document.getElementById('videForm') as HTMLFormElement;
+
+    fileInput.addEventListener('change', (event) => {
+        if (event?.target?.files && event.target.files[0]) {
+            videoEl.src = URL.createObjectURL(event.target.files[0]);
+            videoEl.load();
+        }
+    });
+    
+</script> -->
