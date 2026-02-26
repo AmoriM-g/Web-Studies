@@ -1,0 +1,41 @@
+body {
+    background: #ddd;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: "Nunito", sans-serif;
+    text-align: justify;
+}
+
+.box {
+    background: white;
+    padding: 30px 60px;
+   margin: 50px;
+}
+
+h2 {
+    color: #ee6352;
+    font-weight: 900;
+}
+
+/* p {
+    outline: 3px solid red;
+}
+
+a {
+    outline: 3px solid orchid;
+} */
+
+.btn {
+    background: lightblue;
+    color: black;
+    padding: 25px 75px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    background: darkblue;
+    color: white;
+}
+
