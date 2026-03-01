@@ -1,0 +1,65 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.space  {
+    height: 100em;
+}
+
+footer {
+    background: #131313;
+    font-size: 25px;
+}
+
+a {
+    color: white;
+}
+
+.relative {
+    padding: 20px;
+    height: 300px;
+    width: 400px;
+    background-color: #0071FF;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.fixed {
+    padding: 20px;
+    height: 30px;
+    width: fit-content;
+    background-color: crimson;
+    color: white;
+    position: fixed;
+    left: 50px;
+    top: 50px;
+}
+
+.sticky {
+    padding: 20px;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(80, 0, 240);
+    color: white;
+    position: sticky;
+    top: 0;
+}
+
+.parent {
+    padding: 30px;
+    width: 500px;
+    background-color: #0b0c11;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+.absolute {
+    padding: 20px;
+    background-color: #0071FF;
+    color: white;
+    position: absolute;
+    /* z-index: -1; */
+}
