@@ -1,0 +1,49 @@
+button:hover {
+    font-size: 1.1em;
+    background-color: green;
+}
+
+button:active {
+    font-size: 1.1em;
+    background-color: crimson;
+}
+
+a:link {
+    color: lightblue;
+}
+
+a:hover {
+    color: lightskyblue;
+    font-size: 1.1em;
+}
+
+a:active{
+    font-size: 1.1em;
+    color: darkblue;
+}
+
+a:visited {
+    color: darkgray;
+}
+
+li:not(:hover) {
+    background-color: gray;
+}
+
+li:nth-child(odd) {
+    background-color: darkgray;
+}
+
+li:hover {
+        background-color: gold;
+}
+
+#greeting p {
+    background-color: lightblue;
+    padding: 10px;
+    display: none;
+}
+
+#greeting:hover p{
+    display: block;
+}
