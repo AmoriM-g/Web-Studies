@@ -1,0 +1,11 @@
+#multicol {
+/*     columns: auto 25em;
+    column-gap: 2em;
+    column-rule: 0.1em solid black; */
+
+    outline: 1px solid gray;
+    columns: 3;
+    height: 300px;
+    column-rule: 1px solid black;
+    column-fill:balance;
+}
